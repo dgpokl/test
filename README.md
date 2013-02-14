@@ -1,4 +1,4 @@
 test
 ====
 
-this is a test
+ALL DISCUSSION OF TESTS IN THE README IS FORBIDDEN!
